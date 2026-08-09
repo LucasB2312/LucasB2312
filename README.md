@@ -5,4 +5,10 @@
   </a>
 </p>
 
-![Minhas Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" style="margin: 0 10px;"/>
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" style="margin: 0 10px;"/>
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" style="margin: 0 10px;"/>
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" style="margin: 0 10px;"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="SQL" style="margin: 0 10px;"/>
+</div>
