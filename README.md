@@ -1,5 +1,3 @@
 ![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/LucasBalduino)
 
-![HTML5](https://shields.io)
-
-
+<img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" />
