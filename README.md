@@ -6,9 +6,13 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" style="margin: 0 100px;"/>
-  <img src="https://skillicons.dev/icons?i=css" height="60" style="margin: 0 100px;"/>
-  <img src="https://skillicons.dev/icons?i=js" height="60" style="margin: 0 100px;"/>
-  <img src="https://skillicons.dev/icons?i=php" height="60" style="margin: 0 100px;"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" style="margin: 0 100px;"/>
+  <img src="https://skillicons.dev/icons?i=html" height="60"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="60"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="60"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="60"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
 </div>
