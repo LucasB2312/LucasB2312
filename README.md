@@ -1,7 +1,6 @@
-<p align="center"">
-  
-![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/LucasBalduino)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucasB2312&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://ishan-rest.vercel.app/svg/banner/dev4/LucasBalduino" alt="Developer Banner 4" /><br/><br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=LucasB2312&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" />
+  </a>
 </p>
